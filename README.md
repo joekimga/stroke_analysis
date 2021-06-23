@@ -1,4 +1,4 @@
-# stroke_analysis
+# Stroke Analysis
 
 Background: According to the CDC (https://www.cdc.gov/stroke/facts.htm), 1 in 6 cardiovascular disease related deaths are due to stroke. Someone dies of stroke every 4 minutes, and billions are spent on health care costs related to stroke each year.
 
