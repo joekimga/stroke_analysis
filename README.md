@@ -11,17 +11,18 @@ The Dashboard below shows a comparison of Stroke and Non-Stroke Population Socia
 ![image](https://user-images.githubusercontent.com/28760237/123574526-01cdc800-d79e-11eb-9784-5c03803a7c80.png)
 <!-- <img src="https://user-images.githubusercontent.com/28760237/123574526-01cdc800-d79e-11eb-9784-5c03803a7c80.png" width=75% height=75%> -->
 
+Demographic characteristics effect on stroke is shown on the dashboard.
 ![image](https://user-images.githubusercontent.com/28760237/123574718-6426c880-d79e-11eb-9495-a048d0b7abcc.png)
 <!-- <img src="https://user-images.githubusercontent.com/28760237/123574718-6426c880-d79e-11eb-9495-a048d0b7abcc.png" width=75% height=75%> -->
 
+This shows the medical characteristics that effect stroke.
 ![image](https://user-images.githubusercontent.com/28760237/123574800-86b8e180-d79e-11eb-887a-764652d2eb72.png)
 <!-- <img src="https://user-images.githubusercontent.com/28760237/123574800-86b8e180-d79e-11eb-887a-764652d2eb72.png" width=75% height=75%> -->
 
-![image](https://user-images.githubusercontent.com/28760237/123574850-9801ee00-d79e-11eb-8320-46502d5f9f03.png)
+This Dashboard has a dropdown that helps predict the risk of getting a stroke.
+![image](https://user-images.githubusercontent.com/28760237/123581891-d1d8f180-d7aa-11eb-896b-fc31811e19f3.png)
 <!-- <img src="https://user-images.githubusercontent.com/28760237/123574850-9801ee00-d79e-11eb-8320-46502d5f9f03.png" width=75% height=75%> -->
 
-![image](https://user-images.githubusercontent.com/28760237/123574905-af40db80-d79e-11eb-8cad-64a806225684.png)
-<!-- <img src="https://user-images.githubusercontent.com/28760237/123574905-af40db80-d79e-11eb-8cad-64a806225684.png" width=75% height=75%> -->
 
 A tableau dashboard with a predictive questionnaire was created based on our dataset and model (StrokePrediction.twbx). This connects to our Gaussian Naive Bayes Final Model jupyter notebook via a Tabpy server.
 
