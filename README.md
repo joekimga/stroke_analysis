@@ -4,6 +4,7 @@ Background: According to the CDC (https://www.cdc.gov/stroke/facts.htm), 1 in 6 
 
 This Dashboard shows the Stroke Mortality Rate by Race/Ethnicity and Gender.
 ![image](https://user-images.githubusercontent.com/28760237/123574445-d64add80-d79d-11eb-98f4-8667b3a982b3.png)
+<img src="https://user-images.githubusercontent.com/28760237/123574445-d64add80-d79d-11eb-98f4-8667b3a982b3.png" width=50% height=50%>
 
 Our goal was to create a machine learning model that would predict the likelihood of stroke based on a given set of parameters, including known risk factors. We used the stroke prediction dataset from Kaggle (https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) to examine possible models. Using pandas in jupyter notebooks, we evaluated the following models: KNN, Random Forest, Logistic Regression, SVM, Decision Tree, Gaussian Naive Bayes, Neural Networks, and Gradient Boosting. Jupyter notebooks for each model can be referenced, as the names of the model correspond with what was examined inside of the notebook. We ultimately selected the Gaussian Naive Bayes model as our best performing model (GaussianNaiveBayes_FinalModel.ipynb).
 
